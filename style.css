@@ -13,7 +13,7 @@ body {
 /* HEADER */
 
 .header-wrapper {
-  height: 75vh;
+  height: 70vh;
   width: 100%;
   background: linear-gradient(-45deg, #2c4da6, #ca50c8, #761793, #3b8931);
   background-size: 400% 400%;
