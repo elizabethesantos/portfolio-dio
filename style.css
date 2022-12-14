@@ -384,8 +384,7 @@ a:hover {
   .container .card-container:nth-child(5),
   .container .card-container:nth-child(7),
   .container .card-container:nth-child(9),
-  .container .card-container:nth-child(11),
-   {
+  .container .card-container:nth-child(11) {
       flex-direction: column-reverse;
   }
 
